@@ -17,7 +17,7 @@ node_modules/
 ├── @types/
 |   └── webpack/
 |       └── node_modules/
-|           └── @types/tapable/
+|           └── tapable/
 └── tapable/
 ```
 
