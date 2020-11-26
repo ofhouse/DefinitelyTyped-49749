@@ -15,6 +15,7 @@ Structure in `node_modules/` should be:
 ```
 node_modules/
 ├── @types/
+|   ├── tapable/
 |   └── webpack/
 |       └── node_modules/
 |           └── tapable/
